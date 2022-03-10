@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="36px" viewBox="0 0 37 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CB928A11-0949-41E4-9DE0-AD33D67E46C5</title>
+    <g id="Screendesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00---Home---Desktop" transform="translate(-1499.000000, -25.000000)">
+            <g id="Navigation" transform="translate(911.000000, 25.000000)">
+                <g id="e-mail-icon-light" transform="translate(588.500000, 0.000000)">
+                    <polygon id="Path" points="0 0 36 0 36 36 0 36"></polygon>
+                    <rect id="Rectangle" stroke="#FFC1AF" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" x="4.5" y="7.5" width="27" height="21" rx="3.66666667"></rect>
+                    <polyline id="Path" stroke="#FFC1AF" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" points="4.5 10.5 18 19.5 31.5 10.5"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

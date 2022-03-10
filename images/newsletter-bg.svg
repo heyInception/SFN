@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="470px" viewBox="0 0 1920 470" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2ED009DA-7065-4BF5-A143-A2864D6AABFC</title>
+    <defs>
+        <linearGradient x1="0%" y1="47.0100228%" x2="62.4129765%" y2="51.7318484%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="99.8438818%" cy="0.346638692%" fx="99.8438818%" fy="0.346638692%" r="92.2545387%" gradientTransform="translate(0.998439,0.003466),scale(0.244539,1.000000),rotate(153.695515),translate(-0.998439,-0.003466)" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="82.8544775%" fx="50%" fy="82.8544775%" r="74.9506649%" gradientTransform="translate(0.500000,0.828545),scale(0.244539,1.000000),rotate(-19.309706),translate(-0.500000,-0.828545)" id="radialGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-4" points="0 -1.13686838e-13 1920 43.1012147 1920 335.107724 0 469.515747"></polygon>
+    </defs>
+    <g id="Screendesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00---Home---Desktop" transform="translate(0.000000, -2649.000000)">
+            <g id="newsletter-bg" transform="translate(0.000000, 2649.131746)">
+                <use fill="#E56843" xlink:href="#path-4"></use>
+                <use fill-opacity="0.5" fill="url(#linearGradient-1)" style="mix-blend-mode: overlay;" xlink:href="#path-4"></use>
+                <use fill-opacity="0.3" fill="url(#radialGradient-2)" style="mix-blend-mode: overlay;" xlink:href="#path-4"></use>
+                <use fill-opacity="0.3" fill="url(#radialGradient-3)" style="mix-blend-mode: overlay;" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>
